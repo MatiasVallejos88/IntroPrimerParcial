@@ -1,0 +1,1 @@
+Ubuntu es un sistema operativo de software libre y codigo abierto. Es una distribucion de Linux basada en Debian. Puede utilizarse en ordenadores y servidores. Esta orientado al usuario promedio, con un fuerte enfoque en la facilidad de uso y en mejorar la experiencia del usuario.
